@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.logo {
+  height: 50px;
+}
+#nombre {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+#ini {
+  font-size: 18px;
+}
+#nos {
+  font-size: 18px;
+}
+#rep {
+  font-size: 18px;
+}
+#ser {
+  font-size: 18px;
+}
+#cont {
+  font-size: 18px;
+}
