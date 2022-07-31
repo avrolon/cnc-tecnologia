@@ -25,3 +25,7 @@
   width: 170px;
   font-weight: 600;
 }
+.container_card {
+  background-color: #ebeff2;
+  border-radius: 10px;
+}
